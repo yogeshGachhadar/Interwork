@@ -1,0 +1,6 @@
+/* App-level resets — all theming is in index.css */
+#root {
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+}
